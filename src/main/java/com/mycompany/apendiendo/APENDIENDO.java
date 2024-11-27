@@ -51,7 +51,7 @@ public class APENDIENDO {
         cadena="cadena";
         System.out.println("cadena= "+cadena);
         
-        Persona persona1 = new Persona("Jose", 22);
+        Persona persona1 = new Persona("Pedro", 22);
         System.out.println("Nombre: " + persona1.getNombre());
         System.out.println("Edad: " + persona1.getEdad());   
         
