@@ -46,10 +46,12 @@ public class APENDIENDO {
         final float pi=3.1415f;
         float res=pi*2;
         System.out.println("pi*2= "+res);
+        
         //ENVOLTORIO
         String cadena;
         cadena="cadena";
         System.out.println("cadena= "+cadena);
+        
         
         Persona persona1 = new Persona("Pedrito", 22);
         System.out.println("Nombre: " + persona1.getNombre());

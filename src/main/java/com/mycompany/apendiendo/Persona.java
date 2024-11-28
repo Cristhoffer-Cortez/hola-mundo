@@ -33,7 +33,7 @@ public class Persona {
     //modificar la edad
 
     public void setEdad(int edad) {
-        this.edad = edad; // Asigna un nuevo valor a 'edad'
+        this.edad = edad; // Asigna un nuevo valor a ''edad''
         
     }
 }
