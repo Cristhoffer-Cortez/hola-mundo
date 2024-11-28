@@ -24,7 +24,8 @@ public class Persona {
         return edad; //devuelve el valor del atributo edad
     }
     
-    //SETTER modifica el valor del atrivuto
+    //SETTER 
+    //modifica el valor del atrivuto
 
     public void setNombre(String nombre) {
         this.nombre = nombre; // Asigna un nuevo valor a 'nombre'.

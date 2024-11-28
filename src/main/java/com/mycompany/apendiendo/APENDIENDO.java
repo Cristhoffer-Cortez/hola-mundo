@@ -76,7 +76,7 @@ public class APENDIENDO {
         cade=texto.nextLine(); //Line para que lea toda la linea
         System.out.println("tu texto es: "+cade);
         //para char cade=texto.next().chartAT(0);
-        
+               
 
     }
 }
