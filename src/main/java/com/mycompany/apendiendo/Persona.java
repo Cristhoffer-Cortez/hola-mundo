@@ -25,6 +25,7 @@ public class Persona {
     }
     
     //SETTER 
+    
     //modifica el valor del atrivuto
 
     public void setNombre(String nombre) {

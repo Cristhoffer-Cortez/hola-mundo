@@ -64,6 +64,7 @@ public class APENDIENDO {
         System.out.println("Edad Actualizada: " + persona1.getEdad());
         
         //leer datos
+        
         //NUMEROS
         Scanner entrada=new Scanner(System.in);
         int entero; //para recibir numero decimales flooat
