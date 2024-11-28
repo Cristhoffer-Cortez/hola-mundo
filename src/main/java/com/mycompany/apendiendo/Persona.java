@@ -28,12 +28,12 @@ public class Persona {
     //modifica el valor del atrivuto
 
     public void setNombre(String nombre) {
-        this.nombre = nombre; // Asigna un nuevo valor a 'nombre'.
+        this.nombre = nombre; // Asigna un nuevo valor a 'nombre'
     }
     //modificar la edad
 
     public void setEdad(int edad) {
-        this.edad = edad; // Asigna un nuevo valor a 'edad'.
+        this.edad = edad; // Asigna un nuevo valor a 'edad'
         
     }
 }

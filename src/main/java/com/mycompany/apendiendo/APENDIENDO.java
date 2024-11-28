@@ -65,14 +65,14 @@ public class APENDIENDO {
         //NUMEROS
         Scanner entrada=new Scanner(System.in);
         int entero; //para recibir numero decimales flooat
-        System.out.println("Escribe un numero entero");
+        System.out.println("Escribe un numero entero.");
         entero=entrada.nextInt(); //cambia a nextFloat
         System.out.println("Tu numero es: "+entero);
         
         //CADENAS
         Scanner texto=new Scanner(System.in);
         String cade;
-        System.out.println("escribe texto");
+        System.out.println("escribe texto.");
         cade=texto.nextLine(); //Line para que lea toda la linea
         System.out.println("tu texto es: "+cade);
         //para char cade=texto.next().chartAT(0);
