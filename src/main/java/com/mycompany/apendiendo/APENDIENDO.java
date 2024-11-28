@@ -79,5 +79,6 @@ public class APENDIENDO {
         System.out.println("tu texto es: "+cade);
         //para char cade=texto.next().chartAT(0)parala;
            
+        
     }
 }
